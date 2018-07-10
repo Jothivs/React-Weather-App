@@ -8,3 +8,7 @@ Shows the weather condition of any city including:
 * type of weather ((e.g) cloudy, sunny, rainy,..etc.)
 * weather value in Celsius
 * latitudinal & longitudinal co-ordinates. 
+
+Check out the weather app:
+
+
